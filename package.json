@@ -1,18 +1,18 @@
 {
   "name": "teamtrees-counter",
   "version": "1.0.0",
-  "description": "",
+  "description": "With this package you can obtain up-to-date information about the state of the project #teamtrees",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npm test"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DaniFoldi/teamtrees-counter.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "DaniFoldi",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/DaniFoldi/teamtrees-counter/issues"
   },
